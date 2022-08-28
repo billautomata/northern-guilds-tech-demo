@@ -1,0 +1,28 @@
+spine_animation.png
+size:281,546
+filter:Linear,Linear
+pma:true
+badan
+bounds:2,412,132,252
+rotate:90
+kaki 1a
+bounds:220,56,52,54
+rotate:90
+kaki 1b
+bounds:220,110,52,99
+offsets:25,0,77,99
+kaki 1c
+bounds:206,305,73,105
+kaki 2a
+bounds:220,2,52,52
+kaki 2c
+bounds:206,211,72,92
+kaki 3b
+bounds:106,158,82,108
+kepala
+bounds:106,4,112,152
+tangan 1
+bounds:2,24,102,242
+tangan 2
+bounds:2,268,142,202
+rotate:90
