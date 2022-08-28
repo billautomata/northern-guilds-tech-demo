@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/northern-guilds-tech-demo/static/css/main.3c076ca8.css",
-    "main.js": "/northern-guilds-tech-demo/static/js/main.2e0d782f.js",
+    "main.js": "/northern-guilds-tech-demo/static/js/main.842935c7.js",
     "static/js/787.3a92618a.chunk.js": "/northern-guilds-tech-demo/static/js/787.3a92618a.chunk.js",
     "static/media/demo_shader_00.glsl": "/northern-guilds-tech-demo/static/media/demo_shader_00.a4c70f5321e549f726e7.glsl",
     "static/media/procedural-ground-color.glsl": "/northern-guilds-tech-demo/static/media/procedural-ground-color.e9a6dc9ac31dbcd87502.glsl",
@@ -28,11 +28,11 @@
     "static/media/vert.glsl": "/northern-guilds-tech-demo/static/media/vert.29d538f138721ace7f1e.glsl",
     "static/media/frag.glsl": "/northern-guilds-tech-demo/static/media/frag.1b07c9e6618ac4fe3d98.glsl",
     "main.3c076ca8.css.map": "/northern-guilds-tech-demo/static/css/main.3c076ca8.css.map",
-    "main.2e0d782f.js.map": "/northern-guilds-tech-demo/static/js/main.2e0d782f.js.map",
+    "main.842935c7.js.map": "/northern-guilds-tech-demo/static/js/main.842935c7.js.map",
     "787.3a92618a.chunk.js.map": "/northern-guilds-tech-demo/static/js/787.3a92618a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c076ca8.css",
-    "static/js/main.2e0d782f.js"
+    "static/js/main.842935c7.js"
   ]
 }
